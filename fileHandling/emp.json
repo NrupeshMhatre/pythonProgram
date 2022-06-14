@@ -1,0 +1,17 @@
+{
+    "firstName": "Nrupesh",
+    "lastName" : "Mhatre",
+    "address" :[
+        {
+            "street" :"CSRoad",
+            "City" : "Uran",
+            "state" :"MH"
+        },
+        {
+            "street" :"VMRoad",
+            "City" : "Panvel",
+            "state" :"MH"
+
+        }
+    ]
+}
